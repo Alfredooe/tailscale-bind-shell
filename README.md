@@ -1,1 +1,1 @@
-Don't have too much fun with this. 
+Experiment with Golang Tailscale embedded networking.
